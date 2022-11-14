@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sbrennan98
-- 👀 I’m interested in Machine Learning & Artificial Intelligence
+- 👀 I’m interested in Software Development Engineering
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me: email me at slbvp6@mail.missouri.edu
+- 📫 How to reach me: email me at sbrennan@mail.missouri.edu
 
 <!---
 sbrennan98/sbrennan98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
